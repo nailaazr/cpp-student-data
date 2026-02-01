@@ -2,7 +2,7 @@
 Projek Kuliah: Program Sederhana untuk Menyimpan dan Menampilkan Data Siswa
 
 # Deskripsi
-Program ini dibuat untuk melatih penggunaan `struct` dan array dalam menyimpan data siswa yang terdiri dari nama, NIS, dan nilai. 
+Program ini dibuat untuk melatih penggunaan `struct` dan `array` dalam menyimpan data siswa yang terdiri dari nama, NIS, dan nilai. 
 Program mendukung input hingga 100 data siswa.
 
 # Fitur
